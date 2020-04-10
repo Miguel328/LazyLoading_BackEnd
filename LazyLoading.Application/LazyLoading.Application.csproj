@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <ProjectGuid>{DD80FD80-1AAD-4EC1-8320-EC967EAD7ADF}</ProjectGuid>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LazyLoading.Domain\LazyLoading.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

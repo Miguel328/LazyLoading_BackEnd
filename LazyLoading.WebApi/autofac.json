@@ -1,0 +1,15 @@
+{
+  "defaultAssembly": "LazyLoading.Infrastructure",
+  "modules": [
+    {
+      "type": "LazyLoading.Infrastructure.Modules.ApplicationModule",
+      "properties": {}
+    },
+    {
+      "type": "LazyLoading.Infrastructure.EntityFrameworkDataAccess.Module",
+      "properties": {
+        "ConnectionString": "Server=PSLT5163;Database=LazyLoading;Trusted_Connection=True"
+      }
+    }
+  ]
+}
