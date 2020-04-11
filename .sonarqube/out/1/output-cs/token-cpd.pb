@@ -393,7 +393,7 @@ FromResult;; "
 }
 
  
-} €
+} € 
 ÇC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCase.cs
 	namespace 	
 LazyLoading
@@ -571,56 +571,64 @@ Dictionary? I
 )//O P
 .//P Q
 Result//Q W
-;//W X
-results00 
-.00 
-Add00 
-(00  
-new00  #'
-CalculateTripsUseCaseResult00$ ?
-(00? @
-indexDay00@ H
-,00H I
-bags00J N
-.00N O
-Count00O T
-,00T U
-bags00V Z
-)00Z [
-)00[ \
-;00\ ]
-}11 
-}22 
-catch33 
-(33 
-	Exception33 
-	exception33 &
-)33& '
-{44 
-throw55 
-new55 
-Application55 %
-.55% & 
-ApplicationException55& :
-(55: ;
-	exception55; D
-.55D E
-Message55E L
-)55L M
-;55M N
-}66 
-return88 
-Task88 
-.88 
+;//W X
+if11 
+(11 
+bags11 
+!=11 
+null11 #
+)11# $
+{22 
+results33 
+.33  
+Add33  #
+(33# $
+new33$ ''
+CalculateTripsUseCaseResult33( C
+(33C D
+indexDay33D L
+,33L M
+bags33N R
+.33R S
+Count33S X
+,33X Y
+bags33Z ^
+)33^ _
+)33_ `
+;33` a
+}44 
+}55 
+}66 
+catch77 
+(77 
+	Exception77 
+	exception77 &
+)77& '
+{88 
+throw99 
+new99 
+Application99 %
+.99% & 
+ApplicationException99& :
+(99: ;
+	exception99; D
+.99D E
+Message99E L
+)99L M
+;99M N
+}:: 
+return<< 
+Task<< 
+.<< 
 
-FromResult88 "
-(88" #
-results88# *
-)88* +
-;88+ ,
-}99 	
-}:: 
-};; ç	
+FromResult<< "
+(<<" #
+results<<# *
+)<<* +
+;<<+ ,
+}== 	
+}>> 
+}?? ç	
 àC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCaseResult.cs
 	namespace 	
 LazyLoading

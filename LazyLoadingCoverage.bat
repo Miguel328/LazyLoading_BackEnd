@@ -1,0 +1,2 @@
+C:\Users\%USERNAME%\.nuget\packages\opencover\4.7.922\tools\OpenCover.Console.exe -target:"dotnet.exe" -targetargs:"test" -oldStyle -register:user -output:".\Test\results.xml" -filter:"+[LazyLoading*]* -[*.Test*]*" -excludebyattribute:*.ExcludeFromCodeCoverage*
+C:\Users\%USERNAME%\.nuget\packages\ReportGenerator\4.2.5\tools\net47\ReportGenerator.exe "-reports:.\Test\results.xml" "-targetdir:.\Test\coverage"

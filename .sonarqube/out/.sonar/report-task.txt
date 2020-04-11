@@ -2,5 +2,5 @@ projectKey=lazyloadingbackend
 serverUrl=http://localhost:9000
 serverVersion=8.2.0.32929
 dashboardUrl=http://localhost:9000/dashboard?id=lazyloadingbackend
-ceTaskId=AXFqE47DuExfKDy2t3KE
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXFqE47DuExfKDy2t3KE
+ceTaskId=AXFq-NVsuExfKDy2t3Kv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXFq-NVsuExfKDy2t3Kv

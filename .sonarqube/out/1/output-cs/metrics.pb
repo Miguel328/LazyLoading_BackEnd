@@ -5,9 +5,10 @@ iC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Applicati
  !"#$%&'()*+,-./12356789;<=>x	Ç "$%&'(,-1357;í
 ÅC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateBags\ICalculateBagsUseCase.csr
 	
-“
-ÇC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCase.cs 8j	(-.r*
-!"#$&')*+/012345689:;xÇ	!&*/058ß
+÷
+ÇC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCase.cs 8j	(-.r-
+!"#$&')*+/123456789:<=>?xÇ
+!&*/139<ß
 àC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCaseResult.cs 8r	Çì
 ÉC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\ICalculateTripsUseCase.csr		
 »

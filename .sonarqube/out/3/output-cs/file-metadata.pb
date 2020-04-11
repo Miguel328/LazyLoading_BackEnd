@@ -1,11 +1,6 @@
-p
-gC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\Filters\ExceptionFilter.csutf-8w
-nC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\Filters\ValidateModelAttribute.csutf-8`
-WC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\Program.csutf-8`
-WC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\Startup.csutf-8{
-rC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\UsesCases\Calculate\MoveController.csutf-8x
-oC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\UsesCases\Calculate\MoveRequest.csutf-8h
-_C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\WebApiException.csutf-8a
-VC:\Users\mihernandez\AppData\Local\Temp\.NETCoreApp,Version=v2.2.AssemblyAttributes.csutf-8ä
-C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\obj\Debug\netcoreapp2.2\UserSecretsAssemblyInfo.csutf-8ì
-áC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.WebApi\obj\Debug\netcoreapp2.2\LazyLoading.WebApi.AssemblyInfo.csutf-8
+Ä
+wC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Application.Test\CalculateBagsUseCaseTest.csutf-8Å
+xC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Application.Test\CalculateTripsUseCaseTest.csutf-8É
+xC:\Users\mihernandez\.nuget\packages\microsoft.net.test.sdk\16.2.0\build\netcoreapp1.0\Microsoft.NET.Test.Sdk.Program.csutf-8a
+VC:\Users\mihernandez\AppData\Local\Temp\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8¨
+†C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Application.Test\obj\Debug\netcoreapp3.1\LazyLoading.Application.Test.AssemblyInfo.csutf-8

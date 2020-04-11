@@ -45,7 +45,11 @@
                     // Se calcula el total de bolsas que por día
                     // Se hace una relación de 1 bolsa = 1 viaje
                     List<Bag> bags = this.CalculateBagsUseCase.Execute(elements).Result;
-                    results.Add(new CalculateTripsUseCaseResult(indexDay, bags.Count, bags));
+
+                    if(bags != null)
+                    {
+                        results.Add(new CalculateTripsUseCaseResult(indexDay, bags.Count, bags));
+                    }                    
                 }
             }
             catch (Exception exception)

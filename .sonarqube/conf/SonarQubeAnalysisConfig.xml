@@ -103,6 +103,8 @@
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">http://localhost:9000</Property>
+    <Property Name="sonar.coverage.exclusions">**Test*.cs</Property>
+    <Property Name="sonar.cs.opencover.reportsPaths">.\Test\results.xml</Property>
   </LocalSettings>
   <AnalyzersSettings>
     <AnalyzerSettings>

@@ -8,8 +8,8 @@ cC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\Fi
 ]C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\Logger\Logger.cs 8r	
  !"#‚ †
 wC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\Repositories\ILoggerWriteOnlyRepository.csr		
-ª
-YC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\Trips\Bag.cs 8r/	 !"$%'()*,-./01235678x‚ $)*,.015y
+y
+YC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\Trips\Bag.cs 8r	‚y
 ]C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\Trips\Element.cs 8r	
 ‚˜
 hC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\ValueObjects\DniProperty.cs 8r	

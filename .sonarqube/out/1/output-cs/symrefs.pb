@@ -42,7 +42,7 @@ iC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Applicati
 
 		 
 
-		. 6
+		. 6‹
 ‚C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCase.cs
 
 
@@ -55,15 +55,15 @@ iC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Applicati
 
 7 >
 Z h. <##% 3
-. 500 88# *
+. 533 <<# *
 " +!!3 <2
-!! !!!' /!!> F##4 <00@ H
+!! !!!' /!!> F##4 <33D L
 ## "&&* .
 $$" ***  //G O
 &&! &))6 ;
-))  '**% ,
-// "00J N00V Z
-33 &55; Dû
+))  '**% ,(
+// "11 33N R33Z ^
+77 &99; Dû
 ˆC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCaseResult.cs
 
  3

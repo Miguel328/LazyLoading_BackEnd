@@ -1,78 +1,130 @@
-◊
-yC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\EntityFrameworkDataAccess\Context.cs
+±
+aC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\BagTest.cs
 
- 
-
- 
-( /8 ?
-
-& ,
-
-  /
-= I ¿
-ÅC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\EntityFrameworkDataAccess\Entities\Logger.cs
-
- 
-
-		 
+ 
 
 
 
- 
+ $
+ " &
+   €
+iC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\ContentFileTest.cs
 
- 
-
- à
-xC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\EntityFrameworkDataAccess\Module.cs
-
- 
- &( 8
+  
 
 
 
-  $
+ -
+ # &
+
+ (
+ #0 ;
+' -  ˝
+iC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\DniPropertyTest.cs
+
+  
+
+		 
+ S X
+
+ 
+ 3 8   
+      (
+
+$$ $
+(( ,,A Gº
+jC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\FilePropertyTest.cs
+
+ !
+
+ 
+
+ 
+ 9 ?
+ % 'Ö
+gC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\InputFileTest.cs
+
 
 
-6 =  (
-   J X
-  #¿
-èC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\EntityFrameworkDataAccess\Repositories\LoggerRepository.cs
+ 
 
- ((
+ +
+ 3 9
+ " '
+
+ /
+ 3 9
+ "( 0
+ !! %"" "È
+iC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\IntPropertyTest.cs
+
+  
+
+		  
+  ( -
+    
+
+ %
+ %% **! &
+##  )) !
+)) ** 
+
+.. "
+22 88 ==! &
+66  << $
+<< == ®
+dC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\LoggerTest.cs
+
+ 
+
 
 
-! (   
+ +(
+   &, 2' -‚
+lC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\StringPropertyTest.cs
 
- 
-( / H O
+ #
 
- (
-% +   
- "* 0°
-oC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\InfrastructureException.cs
+		  
+  
+ #  
+
+ %
+ %% **! &
+## #)) !
+)) ** 
+
+.. "
+22 88 ==! &
+66 #<< $
+<< == ·
+oC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\TotalDaysPropertyTest.cs
+
+ &
+
+		 
+ ? D 
+ &  (
+
+ !
+   G L„
+qC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\TotalEmentsPropertyTest.cs
 
  (
 
- (
-0 ?H W
+		 
+ C H 
+  (  (
 
- &
+ !
+   I Nﬁ
+lC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\WeightPropertyTest.cs
 
- &
-. 5X _
-A Oa o
+ #
 
- )
-Y j
-≥ ƒ
+		 
+ 9 > 
+ #  (
 
-ö ™
-∆ ÷°
-qC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\Modules\ApplicationModule.cs
-
- "
-
-  $
-6 =
-
- 
+ !
+   D I

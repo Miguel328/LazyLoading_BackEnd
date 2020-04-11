@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>LazyLoading.Infrastructure</ProjectName>
+  <ProjectName>LazyLoading.Domain.Test</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
-  <ProjectType>Product</ProjectType>
-  <ProjectGuid>3a38d42d-bc45-436d-8966-cb84c651c1b5</ProjectGuid>
-  <FullPath>C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\LazyLoading.Infrastructure.csproj</FullPath>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>8155b9a3-d862-4a6c-bd07-e8a7f3cb9ab3</ProjectGuid>
+  <FullPath>C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\LazyLoading.Domain.Test.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\.sonarqube\out\2\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\bin\Debug\netcoreapp2.2\LazyLoading.Infrastructure.dll.RoslynCA.json|C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\bin\Debug\netcoreapp2.2\LazyLoading.Infrastructure.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\bin\Debug\netcoreapp2.2\LazyLoading.Domain.Test.dll.RoslynCA.json|C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\Test\LazyLoading.Domain.Test\bin\Debug\netcoreapp2.2\LazyLoading.Domain.Test.dll.RoslynCA.json</Property>
     <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\.sonarqube\out\2</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>

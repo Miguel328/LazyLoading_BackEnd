@@ -1,0 +1,5 @@
+dotnet-sonarscanner begin /k:"lazyloadingbackend" /d:sonar.host.url="http://localhost:9000" /d:sonar.login="0bf7bcf1288c414312e5a40fe1b5fc0eee62a073" /d:sonar.coverage.exclusions="**Test*.cs" /d:sonar.cs.opencover.reportsPaths=".\Test\results.xml"
+
+dotnet build
+
+dotnet-sonarscanner end /d:sonar.login="0bf7bcf1288c414312e5a40fe1b5fc0eee62a073"
