@@ -2,7 +2,6 @@
 {
     using Autofac;
     using LazyLoading.Application;
-    using System.Diagnostics.CodeAnalysis;
 
     public class ApplicationModule : Autofac.Module
     {

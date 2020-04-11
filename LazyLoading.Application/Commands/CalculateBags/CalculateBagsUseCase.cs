@@ -9,11 +9,17 @@
     {
         public CalculateBagsUseCase() { }
 
+        /// <summary>
+        /// Calcula el # de elementos por bolsa
+        /// </summary>
+        /// <param name="elements"></param>
+        /// <returns></returns>
         public Task<List<Bag>> Execute(List<Element> elements)
         {
             List<Element> elementsPerBag = new List<Element>();
             List<Bag> bags = new List<Bag>();
 
+            // Se calcula el elemento máximo que va en la bolsa
             Element max = elements.OrderByDescending(o => o.Weight.Value).FirstOrDefault();
             elementsPerBag.Add(max);
             elements.Remove(max);
@@ -22,16 +28,17 @@
             int index = 1;
             bool isvalid = true;
 
+            // Se recorre los elementos para calcular el total que puede ir por bolsa
             while (weight < 50 && max.Weight < 50)
             {
-                if(elements.Count > 0)
+                if (elements.Count > 0)
                 {
                     Element lowest = elements.OrderBy(o => o.Weight.Value).FirstOrDefault();
                     elementsPerBag.Add(lowest);
                     elements.Remove(lowest);
                     index++;
                     weight = max.Weight * index;
-                }                
+                }
                 else
                 {
                     isvalid = false;
@@ -39,7 +46,7 @@
                 }
             }
 
-            if(isvalid)
+            if (isvalid)
             {
                 bags.Add(new Bag(elementsPerBag));
 
@@ -47,8 +54,8 @@
                 {
                     bags.AddRange(Execute(elements).Result);
                 }
-            }           
-            
+            }
+
             return Task.FromResult(bags);
         }
     }

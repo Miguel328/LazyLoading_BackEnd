@@ -12,6 +12,10 @@
             this.Lines = lines;
         }
 
+        /// <summary>
+        /// Convierte el contenido del txt en una estructura entendible (Dia , Elementos)
+        /// </summary>
+        /// <returns></returns>
         public Task<Dictionary<int, List<int>>> Convert()
         {
             Dictionary<int, List<int>> result = new Dictionary<int, List<int>>();

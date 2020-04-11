@@ -14,6 +14,10 @@
             this.File = file;
         }
 
+        /// <summary>
+        /// Permite leer el archivo txt en forma asincrona
+        /// </summary>
+        /// <returns></returns>
         public async Task<string[]> ReadAsync()
         {
             StreamReader streamReader = new StreamReader(this.File);

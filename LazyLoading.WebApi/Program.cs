@@ -1,17 +1,24 @@
 ﻿namespace LazyLoading.WebApi
 {
+    using Autofac.Extensions.DependencyInjection;
     using Microsoft.AspNetCore;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.Extensions.Configuration;
-    using Autofac.Extensions.DependencyInjection;
     using Serilog;
     using Serilog.Events;
     using System.IO;
 
+    /// <summary>
+    /// Program
+    /// </summary>
     public class Program
     {
         private Program() { }
 
+        /// <summary>
+        /// Main
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();

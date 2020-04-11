@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>LazyLoading.Domain</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>563ce281-c416-49f6-98c9-5c94fa75e5de</ProjectGuid>
+  <FullPath>C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\LazyLoading.Domain.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\.sonarqube\out\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\bin\Debug\netcoreapp2.2\LazyLoading.Domain.dll.RoslynCA.json|C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Domain\bin\Debug\netcoreapp2.2\LazyLoading.Domain.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp2.2</TargetFramework>
+</ProjectInfo>

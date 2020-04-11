@@ -1,0 +1,16 @@
+r
+iC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\ApplicationException.csutf-8ä
+ÄC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateBags\CalculateBagsUseCase.csutf-8ã
+ÅC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateBags\ICalculateBagsUseCase.csutf-8å
+ÇC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCase.csutf-8í
+àC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\CalculateTripsUseCaseResult.csutf-8ç
+ÉC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\CalculateTrips\ICalculateTripsUseCase.csutf-8û
+îC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\ConvertContentInputFile\ConvertContentInputFileUseCase.csutf-8ü
+ïC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\ConvertContentInputFile\IConvertContentInputFileUseCase.csutf-8ã
+ÅC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\ReadInputFile\IReadInputFileUseCase.csutf-8ä
+ÄC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\ReadInputFile\ReadInputFileUseCase.csutf-8Ä
+wC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\Register\IRegisterUseCase.csutf-8
+vC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Commands\Register\RegisterUseCase.csutf-8z
+qC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\Results\CalculateTripsResult.csutf-8a
+VC:\Users\mihernandez\AppData\Local\Temp\.NETCoreApp,Version=v2.2.AssemblyAttributes.csutf-8ù
+ëC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Application\obj\Debug\netcoreapp2.2\LazyLoading.Application.AssemblyInfo.csutf-8

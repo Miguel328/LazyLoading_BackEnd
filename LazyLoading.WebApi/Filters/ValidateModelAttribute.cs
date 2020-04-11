@@ -2,8 +2,10 @@
 {
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Filters;
-    using System.Diagnostics.CodeAnalysis;
 
+    /// <summary>
+    /// ValidateModelAttribute
+    /// </summary>
     public sealed class ValidateModelAttribute : ActionFilterAttribute
     {
         /// <summary>

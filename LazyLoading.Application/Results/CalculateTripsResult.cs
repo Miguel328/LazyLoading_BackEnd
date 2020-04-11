@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace LazyLoading.Application.Results
 {
+    /// <summary>
+    /// Captura el resultado del calculo
+    /// </summary>
     public sealed class CalculateTripsResult
     {
         public int Day { get; }

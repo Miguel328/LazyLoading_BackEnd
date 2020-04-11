@@ -8,7 +8,7 @@
             {
                 throw new PropertyShouldNotBeEmptyException("La propiedad 'Dni' es requerida");
             }
-            if(value.Length > 25)
+            if (value.Length > 25)
             {
                 throw new DomainException("La propiedad 'Dni' supera el máximo de caracteres permitidos: 25");
             }

@@ -5,4 +5,12 @@
     <ProjectGuid>{563CE281-C416-49F6-98C9-5C94FA75E5DE}</ProjectGuid>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <CodeAnalysisRuleSet>LazyLoading.Domain.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <CodeAnalysisRuleSet>LazyLoading.Domain.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
 </Project>

@@ -1,0 +1,9 @@
+Ç
+yC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\EntityFrameworkDataAccess\Context.csutf-8ã
+ÅC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\EntityFrameworkDataAccess\Entities\Logger.csutf-8Å
+xC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\EntityFrameworkDataAccess\Module.csutf-8ô
+èC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\EntityFrameworkDataAccess\Repositories\LoggerRepository.csutf-8x
+oC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\InfrastructureException.csutf-8z
+qC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\Modules\ApplicationModule.csutf-8a
+VC:\Users\mihernandez\AppData\Local\Temp\.NETCoreApp,Version=v2.2.AssemblyAttributes.csutf-8£
+óC:\Users\mihernandez\Documents\GitHub\LazyLoading_BackEnd\LazyLoading.Infrastructure\obj\Debug\netcoreapp2.2\LazyLoading.Infrastructure.AssemblyInfo.csutf-8

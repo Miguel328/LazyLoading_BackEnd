@@ -10,10 +10,12 @@
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile>bin\Debug\netcoreapp2.2\LazyLoading.WebApi.xml</DocumentationFile>
+    <CodeAnalysisRuleSet>LazyLoading.WebApi.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <DocumentationFile>bin\Release\netcoreapp2.2\LazyLoading.WebApi.xml</DocumentationFile>
+    <CodeAnalysisRuleSet>LazyLoading.WebApi.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
   <ItemGroup>

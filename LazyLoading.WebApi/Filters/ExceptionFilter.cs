@@ -3,9 +3,11 @@
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Filters;
     using Newtonsoft.Json;
-    using System.Diagnostics.CodeAnalysis;
     using System.Net;
 
+    /// <summary>
+    /// Clase que se encarga de capturar las excepciones presentadas en la API
+    /// </summary>
     public sealed class ExceptionFilter : IExceptionFilter
     {
         /// <summary>
@@ -16,7 +18,7 @@
         {
             string json = JsonConvert.SerializeObject(context.Exception.Message);
             context.Result = new BadRequestObjectResult(json);
-            context.HttpContext.Response.StatusCode = (int)HttpStatusCode.BadRequest;      
+            context.HttpContext.Response.StatusCode = (int)HttpStatusCode.BadRequest;
         }
     }
 }

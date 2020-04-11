@@ -11,17 +11,23 @@
     {
         private readonly ICalculateBagsUseCase CalculateBagsUseCase;
 
-        public CalculateTripsUseCase(ICalculateBagsUseCase calculateBagsUseCase) 
+        public CalculateTripsUseCase(ICalculateBagsUseCase calculateBagsUseCase)
         {
             this.CalculateBagsUseCase = calculateBagsUseCase;
         }
 
+        /// <summary>
+        /// Calcula el total de viajes por días con el total de bolsas y sus elementos
+        /// </summary>
+        /// <param name="elementsPerDay"></param>
+        /// <returns></returns>
         public Task<List<CalculateTripsUseCaseResult>> Execute(Dictionary<int, List<int>> elementsPerDay)
         {
             List<CalculateTripsUseCaseResult> results = new List<CalculateTripsUseCaseResult>();
 
             try
             {
+                // Se toma el total de días
                 TotalDaysProperty totalDays = elementsPerDay.Count;
 
                 for (int indexDay = 1; indexDay <= totalDays; indexDay++)
@@ -31,10 +37,13 @@
 
                     foreach (int weigh in data)
                     {
+                        // Se valida la información por cada elemento
                         Element element = new Element(weigh);
                         elements.Add(element);
                     }
 
+                    // Se calcula el total de bolsas que por día
+                    // Se hace una relación de 1 bolsa = 1 viaje
                     List<Bag> bags = this.CalculateBagsUseCase.Execute(elements).Result;
                     results.Add(new CalculateTripsUseCaseResult(indexDay, bags.Count, bags));
                 }

@@ -9,6 +9,11 @@
     {
         public ConvertContentInputFileUseCase() { }
 
+        /// <summary>
+        /// Convierte el contenido del archivo txt en una estructura entendible
+        /// </summary>
+        /// <param name="lines"></param>
+        /// <returns></returns>
         public Task<Dictionary<int, List<int>>> Execute(string[] lines)
         {
             try
@@ -20,7 +25,7 @@
             catch (Exception exception)
             {
                 throw new Application.ApplicationException(exception.Message);
-            }            
+            }
         }
     }
 }

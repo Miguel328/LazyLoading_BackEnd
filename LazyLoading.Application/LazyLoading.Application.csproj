@@ -5,6 +5,14 @@
     <ProjectGuid>{DD80FD80-1AAD-4EC1-8320-EC967EAD7ADF}</ProjectGuid>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <CodeAnalysisRuleSet>LazyLoading.Application.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <CodeAnalysisRuleSet>LazyLoading.Application.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
   <ItemGroup>
     <ProjectReference Include="..\LazyLoading.Domain\LazyLoading.Domain.csproj" />
   </ItemGroup>

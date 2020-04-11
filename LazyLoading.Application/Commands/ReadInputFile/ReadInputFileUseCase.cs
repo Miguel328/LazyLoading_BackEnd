@@ -9,6 +9,11 @@
     {
         public ReadInputFileUseCase() { }
 
+        /// <summary>
+        /// Lee el contenido del archivo txt
+        /// </summary>
+        /// <param name="file"></param>
+        /// <returns></returns>
         public async Task<string[]> Execute(Stream file)
         {
             try
@@ -20,7 +25,7 @@
             catch (Exception exception)
             {
                 throw new Application.ApplicationException(exception.Message);
-            }            
+            }
         }
     }
 }
